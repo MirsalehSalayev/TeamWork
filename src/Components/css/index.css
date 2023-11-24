@@ -1,0 +1,8 @@
+.Card {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.Card .CardText {
+  color: greenyellow;
+}/*# sourceMappingURL=index.css.map */
