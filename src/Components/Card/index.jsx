@@ -4,7 +4,7 @@ import "./index.scss"
 const Card = () => {
     return (
         <div className='Card'>
-            <p className='CardText'>Card</p>
+            <p className='CardText'>Carddd</p>
         </div>
     )
 }
